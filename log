@@ -1,0 +1,13 @@
+2022.03.15 16:26:59 INFO  Processing buildTarget/compile
+2022.03.15 16:26:59 INFO  compiling proj1
+2022.03.15 16:26:59 INFO  time: compiled proj1 in 7ms
+2022.03.15 16:26:59 INFO  compiling proj2
+2022.03.15 16:26:59 INFO  compiling 1 Scala source to /Users/tanishiking/src/github.com/tanishiking/sbt-multi-project/proj2/target/scala-2.12/classes ...
+2022.03.15 16:26:59 INFO  done compiling
+2022.03.15 16:26:59 INFO  time: compiled proj2 in 0.63s
+2022.03.15 16:26:59 INFO  Processing buildTarget/scalaMainClasses
+2022.03.15 16:26:59 INFO  compiling proj1
+2022.03.15 16:26:59 INFO  time: compiled proj1 in 5ms
+2022.03.15 16:26:59 INFO  compiling proj2
+2022.03.15 16:26:59 INFO  time: compiled proj2 in 6ms
+2022.03.15 16:26:59 INFO  Processing buildTarget/scalaTestClasses
